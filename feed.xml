@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-11T14:26:50+09:00</updated><id>http://localhost:4000//</id><title type="html">Chani</title><subtitle>QUSI
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-11T16:44:11+09:00</updated><id>http://localhost:4000//</id><title type="html">Chani</title><subtitle>QUSI
 </subtitle><entry><title type="html">할일</title><link href="http://localhost:4000/2016/11/10/wehavetodothis.html" rel="alternate" type="text/html" title="할일" /><published>2016-11-10T17:03:53+09:00</published><updated>2016-11-10T17:03:53+09:00</updated><id>http://localhost:4000/2016/11/10/wehavetodothis</id><content type="html" xml:base="http://localhost:4000/2016/11/10/wehavetodothis.html">&lt;h1 id=&quot;section&quot;&gt;우리가 해야할 일&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -17,7 +17,7 @@
 
 &lt;h2 id=&quot;irb--&quot;&gt;irb를 사용하여 공부하기&lt;/h2&gt;
 
-&lt;p&gt;대화형 루비 셸(irb)&lt;/p&gt;
+&lt;p&gt;대화형 루비 셸(irb)&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;irb(Interactive Ruby의 약자)를 시작하십시오.&lt;/p&gt;
 
@@ -91,6 +91,9 @@
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
       &lt;p&gt;https://www.ruby-lang.org/ko/ &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:1:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:1:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;대화형 루비 셸. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content><summary type="html">우리가 해야할 일</summary></entry><entry><title type="html">아직 페이지를 테스트중입니다.</title><link href="http://localhost:4000/testing/2016/11/10/testingpage.html" rel="alternate" type="text/html" title="아직 페이지를 테스트중입니다." /><published>2016-11-10T15:12:36+09:00</published><updated>2016-11-10T15:12:36+09:00</updated><id>http://localhost:4000/testing/2016/11/10/testingpage</id><content type="html" xml:base="http://localhost:4000/testing/2016/11/10/testingpage.html">&lt;h1 id=&quot;section&quot;&gt;테스트중입니다.&lt;/h1&gt;
