@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-11T18:53:18+09:00</updated><id>http://localhost:4000//</id><title type="html">Chani</title><subtitle>QUSI
-</subtitle><entry><title type="html">할일</title><link href="http://localhost:4000/2016/11/10/wehavetodothis.html" rel="alternate" type="text/html" title="할일" /><published>2016-11-10T17:03:53+09:00</published><updated>2016-11-10T17:03:53+09:00</updated><id>http://localhost:4000/2016/11/10/wehavetodothis</id><content type="html" xml:base="http://localhost:4000/2016/11/10/wehavetodothis.html">&lt;h1 id=&quot;section&quot;&gt;우리가 해야할 일&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-11T19:17:33+09:00</updated><id>http://localhost:4000//</id><title type="html">Chani</title><subtitle>QUSI
+</subtitle><entry><title type="html">DISQUS 활용 방법 (for Jekyll)</title><link href="http://localhost:4000/2016/11/11/how-to-disqus.html" rel="alternate" type="text/html" title="DISQUS 활용 방법 (for Jekyll)" /><published>2016-11-11T19:08:58+09:00</published><updated>2016-11-11T19:08:58+09:00</updated><id>http://localhost:4000/2016/11/11/how-to-disqus</id><content type="html" xml:base="http://localhost:4000/2016/11/11/how-to-disqus.html">&lt;h1 id=&quot;disqus--&quot;&gt;DISQUS 활용 방법.&lt;/h1&gt;
+
+&lt;p&gt;DISQUS 는 동적으로 &lt;strong&gt;페이지에 해당하는 ‘댓글’ 기능을 만들어주는 유용한 서비스이다.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;disqus-&quot;&gt;DISQUS 가입하기.&lt;/h2&gt;
+
+&lt;p&gt;먼저 해야할 일은 &lt;a href=&quot;http://disqus.com&quot;&gt;Disqus&lt;/a&gt;에 가입하는 일이다.&lt;/p&gt;
+
+&lt;h2 id=&quot;disqus---1&quot;&gt;DISQUS 사이트 생성하기.&lt;/h2&gt;</content><summary type="html">DISQUS 활용 방법.</summary></entry><entry><title type="html">할일</title><link href="http://localhost:4000/2016/11/10/wehavetodothis.html" rel="alternate" type="text/html" title="할일" /><published>2016-11-10T17:03:53+09:00</published><updated>2016-11-10T17:03:53+09:00</updated><id>http://localhost:4000/2016/11/10/wehavetodothis</id><content type="html" xml:base="http://localhost:4000/2016/11/10/wehavetodothis.html">&lt;h1 id=&quot;section&quot;&gt;우리가 해야할 일&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;[x] 사이트 기본 스캐폴딩.&lt;/li&gt;
