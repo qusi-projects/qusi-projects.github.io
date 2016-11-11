@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-11T19:41:57+09:00</updated><id>http://localhost:4000//</id><title type="html">Chani</title><subtitle>QUSI
-</subtitle><entry><title type="html">DISQUS 활용 방법 (for Jekyll)</title><link href="http://localhost:4000/2016/11/11/how-to-disqus.html" rel="alternate" type="text/html" title="DISQUS 활용 방법 (for Jekyll)" /><published>2016-11-11T19:08:58+09:00</published><updated>2016-11-11T19:08:58+09:00</updated><id>http://localhost:4000/2016/11/11/how-to-disqus</id><content type="html" xml:base="http://localhost:4000/2016/11/11/how-to-disqus.html">&lt;h1 id=&quot;disqus--&quot;&gt;DISQUS 활용 방법.&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-11-11T19:48:26+09:00</updated><id>//</id><title type="html">Chani</title><subtitle>QUSI
+</subtitle><entry><title type="html">DISQUS 활용 방법 (for Jekyll)</title><link href="/blog/2016/11/11/how-to-disqus" rel="alternate" type="text/html" title="DISQUS 활용 방법 (for Jekyll)" /><published>2016-11-11T19:08:58+09:00</published><updated>2016-11-11T19:08:58+09:00</updated><id>/blog/2016/11/11/how-to-disqus</id><content type="html" xml:base="/blog/2016/11/11/how-to-disqus">&lt;h1 id=&quot;disqus--&quot;&gt;DISQUS 활용 방법.&lt;/h1&gt;
 
 &lt;p&gt;DISQUS 는 동적으로 &lt;strong&gt;페이지에 해당하는 ‘댓글’ 기능을 만들어주는 유용한 서비스이다.&lt;/strong&gt;&lt;/p&gt;
 
@@ -7,7 +7,7 @@
 
 &lt;p&gt;먼저 해야할 일은 &lt;a href=&quot;http://disqus.com&quot;&gt;Disqus&lt;/a&gt;에 가입하는 일이다.&lt;/p&gt;
 
-&lt;h2 id=&quot;disqus---1&quot;&gt;DISQUS 사이트 생성하기.&lt;/h2&gt;</content><summary type="html">DISQUS 활용 방법.</summary></entry><entry><title type="html">할일</title><link href="http://localhost:4000/2016/11/10/wehavetodothis.html" rel="alternate" type="text/html" title="할일" /><published>2016-11-10T17:03:53+09:00</published><updated>2016-11-10T17:03:53+09:00</updated><id>http://localhost:4000/2016/11/10/wehavetodothis</id><content type="html" xml:base="http://localhost:4000/2016/11/10/wehavetodothis.html">&lt;h1 id=&quot;section&quot;&gt;우리가 해야할 일&lt;/h1&gt;
+&lt;h2 id=&quot;disqus---1&quot;&gt;DISQUS 사이트 생성하기.&lt;/h2&gt;</content><summary type="html">DISQUS 활용 방법.</summary></entry><entry><title type="html">할일</title><link href="/blog/2016/11/10/wehavetodothis" rel="alternate" type="text/html" title="할일" /><published>2016-11-10T17:03:53+09:00</published><updated>2016-11-10T17:03:53+09:00</updated><id>/blog/2016/11/10/wehavetodothis</id><content type="html" xml:base="/blog/2016/11/10/wehavetodothis">&lt;h1 id=&quot;section&quot;&gt;우리가 해야할 일&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;[x] 사이트 기본 스캐폴딩.&lt;/li&gt;
@@ -104,9 +104,9 @@
       &lt;p&gt;대화형 루비 셸. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><summary type="html">우리가 해야할 일</summary></entry><entry><title type="html">아직 페이지를 테스트중입니다.</title><link href="http://localhost:4000/testing/2016/11/10/testingpage.html" rel="alternate" type="text/html" title="아직 페이지를 테스트중입니다." /><published>2016-11-10T15:12:36+09:00</published><updated>2016-11-10T15:12:36+09:00</updated><id>http://localhost:4000/testing/2016/11/10/testingpage</id><content type="html" xml:base="http://localhost:4000/testing/2016/11/10/testingpage.html">&lt;h1 id=&quot;section&quot;&gt;테스트중입니다.&lt;/h1&gt;
+&lt;/div&gt;</content><summary type="html">우리가 해야할 일</summary></entry><entry><title type="html">아직 페이지를 테스트중입니다.</title><link href="/blog/2016/11/10/testingpage" rel="alternate" type="text/html" title="아직 페이지를 테스트중입니다." /><published>2016-11-10T15:12:36+09:00</published><updated>2016-11-10T15:12:36+09:00</updated><id>/blog/2016/11/10/testingpage</id><content type="html" xml:base="/blog/2016/11/10/testingpage">&lt;h1 id=&quot;section&quot;&gt;테스트중입니다.&lt;/h1&gt;
 
-&lt;p&gt;그렇습니다. 테스트 중인 것입니다.&lt;/p&gt;</content><category term="testing" /><category term="test" /><category term="testing" /><summary type="html">테스트중입니다.</summary></entry><entry><title type="html">반갑다 세상아!!!</title><link href="http://localhost:4000/blog/2016/11/helloworld" rel="alternate" type="text/html" title="반갑다 세상아!!!" /><published>2016-11-10T12:57:17+09:00</published><updated>2016-11-10T12:57:17+09:00</updated><id>http://localhost:4000/blog/2016/11/helloworld</id><content type="html" xml:base="http://localhost:4000/blog/2016/11/helloworld">&lt;h1 id=&quot;section&quot;&gt;새로운 시작입니다.&lt;/h1&gt;
+&lt;p&gt;그렇습니다. 테스트 중인 것입니다.&lt;/p&gt;</content><category term="testing" /><category term="test" /><category term="testing" /><summary type="html">테스트중입니다.</summary></entry><entry><title type="html">반갑다 세상아!!!</title><link href="/blog/2016/11/10/helloworld" rel="alternate" type="text/html" title="반갑다 세상아!!!" /><published>2016-11-10T12:57:17+09:00</published><updated>2016-11-10T12:57:17+09:00</updated><id>/blog/2016/11/10/helloworld</id><content type="html" xml:base="/blog/2016/11/10/helloworld">&lt;h1 id=&quot;section&quot;&gt;새로운 시작입니다.&lt;/h1&gt;
 
 &lt;p&gt;안녕하세요 &lt;code class=&quot;highlighter-rouge&quot;&gt;QUSI&lt;/code&gt;입니다. 이렇게 새롭게 찾아뵙게 되다니 영광입니다. 많은 어려움이 있었습니다만, 아직도 잘 살아 남고 있네요.&lt;/p&gt;
 
